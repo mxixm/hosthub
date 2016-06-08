@@ -1,0 +1,23 @@
+Malcolm:
+
+Let’s develop an automated show management system.  Let’s call it HostHub. It would be on a separate website linked to thinktechhawaii.com.  It would be on an open source database with open source code and really simple UI design (gray, black and white).  Once we establish the platform, I would want to participate in the coding.  The functionality would be as follows:
+
+The host would establish a profile and login with a password.  It would have the name, time and weekday of his show, but he would add the new episode: the date, title, guests, their affiliations, their email, Skype and phone contacts, and a blurb describing the discussion.  He could upload graphics and clips.  There would be a flag on Skype shows and room for co/alternate hosts.
+
+This episode data would be saved to a database, emailed to management and automatically entered on the Google calendar.  
+
+The host could go back in at any time and edit the show information.
+
+A day before the show, the Hub would send confirmation/reminder emails to the host.  If there is no show information, the email would propose choices to the host:  “I will post the show information right away,” I can’t do the show but I have a guest,” I can do the show but I don’t have a guest,” or “I can’t do the show and don’t have a guest.”
+
+If the Host responds to say he can’t do the show but has a guest, the Hub will suggest alternative hosts to management.  If the Host can do the show but does not have a guest, the Hub would suggest alternative guests to him.  If the Host cannot do the show and doesn’t have a guest, the Hub would propose another host from the standby list; propose a replay from this Host’s shows; propose a replay from the previous week’s Hit Parade; propose ThinkTech Select for that time.
+
+The database would keep a record of these events.  If the host has more than X show failures, he would be put on the preemption list and would be subject to preemption for the next X weeks.  If he has more than X failures his show would either be changed to bi-weekly or canceled. This would all be explained to him when he fills out the form saying he can't do the show.
+
+At the end of the day before the show date, the Hub would send confirmation email to the guests, copies to the host.  It would give them instructions on where the studio is, when to come, what to wear and rules on submitting graphics and clips.
+
+After the show is over, the Hub would send a proposed thank you letter to the Floor Managers and they would have the choice of sending that letter to the host and guests.
+
+The Hub would keep a record of all these events and emails. With this data, over time we will be able to establish a ratings system for the hosts and guests.
+
+ There would also be a login, profile and a reservation system for Commentaries and Speakers' Corner pieces.  The public could reserve spots, subject to availability and management approval.  Entries would automatically go on the Google calendar.  Staff would be notified and emails would be sent to speakers the day before to give them instructions and remind them to come. 
